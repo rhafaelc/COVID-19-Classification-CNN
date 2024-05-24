@@ -12,3 +12,5 @@ This project aims to develop a robust model for the automatic detection of COVID
 - **Model Architecture**: A Convolutional Neural Network (CNN) is designed and implemented using TensorFlow/Keras, specifically tailored for image classification tasks.
 - **Training and Validation**: The model is trained on a dataset of X-ray images, with a portion of the data reserved for validation to monitor performance and prevent overfitting.
 - **Performance Evaluation**: The trained model is evaluated using metrics like accuracy, precision, recall, and F1-score to ensure its reliability in a real-world scenario.
+
+Last Update: April 2024
